@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900&subset=latin,latin-ext);
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+
+
+*/
+body {
+  font-family: "Source Sans Pro", sans-serif; }
+body {
+  background: black;
+  color: white;
+  margin: 30px; }
+
+a {
+  color: white; }
+
+#mainBody {
+  text-align: center;
+  font-size: 14pt; }
+
+#footer {
+  text-align: center;
+  font-size: 10pt; }
+
+.GooglePlus {
+  margin-left: 20px; }
+
+.smaller {
+  font-size: 11pt; }
