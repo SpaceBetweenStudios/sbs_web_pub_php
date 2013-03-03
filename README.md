@@ -1,4 +1,4 @@
-sbs_web_pub_php
+Space Between Studios - Public Website (PHP)
 ===============
 
 PHP version of Space Between Studios website.
